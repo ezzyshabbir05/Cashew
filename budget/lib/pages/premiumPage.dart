@@ -874,8 +874,8 @@ class ProductsState extends State<Products> {
                               ? " Store disabled in debug mode! Enable `tryStoreEnabled`"
                               : ""),
                       icon: appStateSettings["outlinedIcons"]
-                          ? Icons.warning_outlined
-                          : Icons.warning_rounded,
+                          ? Icons.check_circle_outlined
+                          : Icons.check_circle_rounded,
                       color: Theme.of(context).colorScheme.primary,
                       onTap: () {
                         initializeStoreAndPurchases(
