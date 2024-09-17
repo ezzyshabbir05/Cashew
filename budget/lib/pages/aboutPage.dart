@@ -113,10 +113,10 @@ class AboutPageState extends State<AboutPage> {
             const EdgeInsetsDirectional.symmetric(horizontal: 15, vertical: 5),
         child: Tappable(
           onTap: () {
-            openUrl('mailto:dapperappdeveloper@gmail.com');
+            openUrl('mailto:ezzyshabbir05@gmail.com');
           },
           onLongPress: () {
-            copyToClipboard("dapperappdeveloper@gmail.com");
+            copyToClipboard("ezzyshabbir05@gmail.com");
           },
           color: containerColor,
           borderRadius: getPlatform() == PlatformOS.isIOS ? 10 : 15,
@@ -133,7 +133,7 @@ class AboutPageState extends State<AboutPage> {
                   maxLines: 5,
                 ),
                 TextFont(
-                  text: "James",
+                  text: "Shabbir",
                   fontSize: 29,
                   fontWeight: FontWeight.bold,
                   textColor: Theme.of(context).colorScheme.onPrimaryContainer,
@@ -141,43 +141,11 @@ class AboutPageState extends State<AboutPage> {
                   maxLines: 5,
                 ),
                 TextFont(
-                  text: "dapperappdeveloper@gmail.com",
+                  text: "ezzyshabbir05@gmail.com",
                   fontSize: 16,
                   textAlign: TextAlign.center,
                   maxLines: 5,
                   textColor: getColor(context, "textLight"),
-                ),
-              ],
-            ),
-          ),
-        ),
-      ),
-      Padding(
-        padding:
-            const EdgeInsetsDirectional.symmetric(horizontal: 15, vertical: 5),
-        child: Tappable(
-          onTap: () {},
-          color: containerColor,
-          borderRadius: getPlatform() == PlatformOS.isIOS ? 10 : 15,
-          child: Padding(
-            padding: const EdgeInsetsDirectional.symmetric(
-                horizontal: 13, vertical: 15),
-            child: Column(
-              children: [
-                TextFont(
-                  text: "database-designer".tr(),
-                  fontSize: 18,
-                  fontWeight: FontWeight.bold,
-                  textAlign: TextAlign.center,
-                  maxLines: 5,
-                ),
-                TextFont(
-                  text: "YuYing",
-                  fontSize: 29,
-                  fontWeight: FontWeight.bold,
-                  textColor: Theme.of(context).colorScheme.onPrimaryContainer,
-                  textAlign: TextAlign.center,
-                  maxLines: 5,
                 ),
               ],
             ),
@@ -190,7 +158,7 @@ class AboutPageState extends State<AboutPage> {
             const EdgeInsetsDirectional.symmetric(horizontal: 15, vertical: 7),
         child: Center(
           child: TextFont(
-            text: "made-in-canada".tr() + " " + "🍁",
+            text: "made-in-india".tr() + " " + "❤️",
             fontSize: 14,
             textAlign: TextAlign.center,
             maxLines: 5,
@@ -254,248 +222,9 @@ class AboutPageState extends State<AboutPage> {
 
     List<Widget> translators = [
       TranslationInfoBox(
-        title: "Italian",
+        title: "English",
         list: [
-          "Thomas B.",
-          "Mattia A.",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "Polish",
-        list: [
-          "Michał S.",
-          "Michał P.",
-          "Kaczusia",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "Serbian",
-        list: [
-          "Jovan P.",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "Swahili",
-        list: [
-          "Anthony K.",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "German",
-        list: [
-          "Fabian S.",
-          "Christian R.",
-          "Samuel R.",
-          "Bettina S.",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "Arabic",
-        list: [
-          "Dorra Y.",
-          "Ammar N.",
-          "Hussain A.",
-          "Mahmoud E.",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "Portuguese",
-        list: [
-          "Alexander G.",
-          "Jean J.",
-          "João P.",
-          "Junior M.",
-          "Leandro",
-          "Xavier B.",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "Bulgarian",
-        list: [
-          "Денислав C.",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "Chinese (Simplified)",
-        list: [
-          "Clyde",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "Chinese (Traditional)",
-        list: [
-          "qazlll456",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "Hindi",
-        list: [
-          "Dikshant S.",
-          "Nikunj K.",
-          "Darshan L.",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "Vietnamese",
-        list: [
-          "Ng. Anh",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "French",
-        list: [
-          "Antoine C.",
-          "Fabien H.",
-          "Samuel S.",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "Indonesian",
-        list: [
-          "Gusairi P.",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "Ukrainian",
-        list: [
-          "Chris M.",
-          "Yurii S.",
-          "Mariia",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "Russian",
-        list: [
-          "Ilya A.",
-          "Konstantin B.",
-          "Dennis Q",
-          "Innokentii B.",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "Romanian",
-        list: [
-          "Valentin G.",
-          "Tarciziu",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "Spanish",
-        list: [
-          "Pablo S.",
-          "Gonzalo R.",
-          "Ramon M.",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "Swedish",
-        list: [
-          "Anna M.",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "Danish",
-        list: [
-          "Mittheo",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "Turkish",
-        list: [
-          "Serdar A.",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "Slovak",
-        list: [
-          "Igor V.",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "Macedonian",
-        list: [
-          "Andrej A.",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "Czech",
-        list: [
-          "Kamil T.",
-          "Hana B.",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "Hebrew",
-        list: [
-          "Happy Bear",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "Afrikaans",
-        list: [
-          "Andrè B.",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "Filipino",
-        list: [
-          "Waren G.",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "Tamil",
-        list: [
-          "Mohamed A.",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "Japanese",
-        list: [
-          "Tetta N.",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "Hungarian",
-        list: [
-          "Döbröntei S.",
-          "Myra S.",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "Thai",
-        list: [
-          "Jateniphat U.",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "Gujarati",
-        list: [
-          "Darshan L.",
-          "Harsh S.",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "Finnish",
-        list: [
-          "Mirko J.",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "Dutch",
-        list: [
-          "Niels S.",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "Malay",
-        list: [
-          "アリフ",
-        ],
-      ),
-      TranslationInfoBox(
-        title: "Sinhala",
-        list: [
-          "Bhagya S.",
+          "Shabbir Ezzy",
         ],
       ),
     ];
@@ -855,7 +584,7 @@ class AboutLinks extends StatelessWidget {
             _buildTappable(
               context: context,
               isExternalLink: true,
-              onTap: () => openUrl("https://github.com/jameskokoska/Penny"),
+              onTap: () => openUrl("https://github.com/ezzyshabbir05/Penny"),
               icon: MoreIcons.github,
               text: "app-is-open-source".tr(namedArgs: {"app": globalAppName}),
             ),
@@ -993,7 +722,7 @@ class AboutDeepLinking extends StatelessWidget {
       title: "deep-linking".tr(),
       showLink: false,
       link:
-          "https://github.com/jameskokoska/Penny?tab=readme-ov-file#app-links",
+          "https://github.com/ezzyshabbir05/Penny?tab=readme-ov-file#app-links",
       list: [
         "deep-linking-description".tr(),
       ],

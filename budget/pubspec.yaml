@@ -74,7 +74,7 @@ dependencies:
   sliver_tools: ^0.2.12
   reorderable_grid_view:
     git:
-      url: https://github.com/jameskokoska/reorderable_grid_view
+      url: https://github.com/ezzyshabbir05/reorderable_grid_view
   local_auth: ^2.2.0
   timer_builder: ^2.0.0
   device_info_plus: ^10.1.0

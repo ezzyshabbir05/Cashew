@@ -705,8 +705,8 @@ showHelpRestorePopup(BuildContext context) {
     onCancelLabel: "close".tr(),
     onSubmitLabel: "contact".tr(),
     onSubmit: () async {
-      bool openResult = await openUrl('mailto:dapperappdeveloper@gmail.com');
-      if (openResult == false) copyToClipboard("dapperappdeveloper@gmail.com");
+      bool openResult = await openUrl('mailto:ezzyshabbir05@gmail.com');
+      if (openResult == false) copyToClipboard("ezzyshabbir05@gmail.com");
     },
     onExtra: () =>
         openUrl("https://pennyapp.web.app/faq.html#restoring-purchases"),
