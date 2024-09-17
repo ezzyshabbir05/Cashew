@@ -1,18 +1,1 @@
-{
-  "hosting": {
-    "public": "build/web",
-    "predeploy": "flutter build web --release --web-renderer canvaskit --no-tree-shake-icons",
-    "site":"penny53",
-    "ignore": [
-      "firebase.json",
-      "**/.*",
-      "**/node_modules/**"
-    ],
-    "rewrites": [
-      {
-        "source": "**",
-        "destination": "/index.html"
-      }
-    ]
-  }
-}
+{"hosting":{"public":"build/web","predeploy":"flutter build web --release --web-renderer canvaskit --no-tree-shake-icons","site":"penny53","ignore":["firebase.json","**/.*","**/node_modules/**"],"rewrites":[{"source":"**","destination":"/index.html"}]},"flutter":{"platforms":{"android":{"default":{"projectId":"penny-1baa7","appId":"1:669737508551:android:1a30cb7148ecb98f9228e2","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"penny-1baa7","configurations":{"android":"1:669737508551:android:1a30cb7148ecb98f9228e2","ios":"1:669737508551:ios:6d970cd25b92b2949228e2","web":"1:669737508551:web:c969e4dbd03d23549228e2"}}}}}}

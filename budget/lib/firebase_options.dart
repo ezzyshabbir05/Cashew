@@ -70,6 +70,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '669737508551',
     projectId: 'penny-1baa7',
     storageBucket: 'penny-1baa7.appspot.com',
+    androidClientId: '669737508551-ekl6f1gs1tfgonk6jcg1veeqa2b3qmch.apps.googleusercontent.com',
+    iosClientId: '669737508551-hjlj2c0aeut5ibfm1v5ldrehbf9csf56.apps.googleusercontent.com',
     iosBundleId: 'dev.ezzy.penny',
   );
 
