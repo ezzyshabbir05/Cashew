@@ -26,8 +26,8 @@ import 'package:sa3_liquid/sa3_liquid.dart';
 import 'package:budget/widgets/openContainerNavigation.dart';
 import 'package:in_app_purchase/in_app_purchase.dart';
 
-bool premiumPopupEnabled = kIsWeb == false;
-bool tryStoreEnabled = kIsWeb == false && kDebugMode == false;
+bool premiumPopupEnabled = false;
+bool tryStoreEnabled = false;
 StreamSubscription<List<PurchaseDetails>>? purchaseListener;
 Map<String, ProductDetails> storeProducts = {};
 Map<String, String> productIDs = {
@@ -868,15 +868,15 @@ class ProductsState extends State<Products> {
               ? loading == true
                   ? SizedBox.shrink()
                   : StatusBox(
-                      title: "error-getting-products".tr(),
-                      description: "error-getting-products-description".tr() +
+                      title: "order-confirmation".tr(),
+                      description: "Enjoy the app!" +
                           (kDebugMode && tryStoreEnabled == false
                               ? " Store disabled in debug mode! Enable `tryStoreEnabled`"
                               : ""),
                       icon: appStateSettings["outlinedIcons"]
                           ? Icons.warning_outlined
                           : Icons.warning_rounded,
-                      color: Theme.of(context).colorScheme.error,
+                      color: Theme.of(context).colorScheme.primary,
                       onTap: () {
                         initializeStoreAndPurchases(
                           context: context,
