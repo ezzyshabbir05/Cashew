@@ -1,6 +1,6 @@
-<h1 align="center" style="font-size:28px; line-height:1"><b>Cashew</b></h1>
+<h1 align="center" style="font-size:28px; line-height:1"><b>Penny</b></h1>
 
-<a href="https://cashewapp.web.app/">
+<a href="https://pennyapp.web.app/">
   <div align="center">
     <img alt="Icon" src="promotional/icons/icon.png" width="150px">
   </div>
@@ -9,23 +9,23 @@
 <br />
 
 <div align="center">
-  <a href="https://apps.apple.com/us/app/cashew-expense-budget-tracker/id6463662930">
+  <a href="https://apps.apple.com/us/app/penny-expense-penny53er/id6463662930">
     <img alt="iOS App Store Badge" src="promotional/store-banners/app-store-badge.png" height="60px">
   </a>
-  <a href="https://play.google.com/store/apps/details?id=com.budget.tracker_app">
+  <a href="https://play.google.com/store/apps/details?id=dev.ezzy.penny">
     <img alt="Google Play Badge" src="promotional/store-banners/google-play-badge.png" height="60px">
   </a>
-  <a href="https://github.com/jameskokoska/Cashew/releases/">
+  <a href="https://github.com/jameskokoska/Penny/releases/">
     <img alt="GitHub Badge" src="promotional/store-banners/github-badge.png" height="60px">
   </a>
-  <a href="https://budget-track.web.app/">
+  <a href="https://penny53.web.app/">
     <img alt="PWA Badge" src="promotional/store-banners/pwa-badge.png" height="60px">
   </a>
 </div>
 
 <br />
 
-<a href="https://cashewapp.web.app/">
+<a href="https://pennyapp.web.app/">
   <div align="center">
     <img width="95%" src="promotional/GitHub/SocialPreviewGitHub.png" alt="Promo banner">
   </div>
@@ -35,7 +35,7 @@
 
 ---
 
-Cashew is a full-fledged, feature-rich application designed to empower users in managing their finances effectively. Built using Flutter - with Drift's SQL package, and Firebase - this app offers a seamless and intuitive user experience across various devices. Development started in September 2021.
+Penny is a full-fledged, feature-rich application designed to empower users in managing their finances effectively. Built using Flutter - with Drift's SQL package, and Firebase - this app offers a seamless and intuitive user experience across various devices. Development started in September 2021.
 
 ---
 
@@ -47,7 +47,7 @@ Cashew is a full-fledged, feature-rich application designed to empower users in 
   </div>
 </a>
 <p align="center">
-  Cashew was featured on <a href="https://www.youtube.com/watch?v=Oar9pkc7BSc&t=235s">YouTube</a> on 'The Best Free and Open Source Apps in 2024!' (and in the thumbnail!)
+  Penny was featured on <a href="https://www.youtube.com/watch?v=Oar9pkc7BSc&t=235s">YouTube</a> on 'The Best Free and Open Source Apps in 2024!' (and in the thumbnail!)
 </p>
 
 <br />
@@ -58,7 +58,7 @@ Cashew is a full-fledged, feature-rich application designed to empower users in 
   </div>
 </a>
 <p align="center">
-  Cashew was featured on <a href="https://www.youtube.com/watch?v=NYZd7IKn1oY&t=536s">YouTube</a> on 'The Best Apps of 2023!'
+  Penny was featured on <a href="https://www.youtube.com/watch?v=NYZd7IKn1oY&t=536s">YouTube</a> on 'The Best Apps of 2023!'
 </p>
 
 <br>
@@ -69,7 +69,7 @@ Cashew is a full-fledged, feature-rich application designed to empower users in 
   </div>
 </a>
 <p align="center">
-  Cashew was featured on <a href="https://www.youtube.com/watch?v=2MwWmqcn--s&t=261s">YouTube</a> on 'Top Android Apps! (November 2023)'
+  Penny was featured on <a href="https://www.youtube.com/watch?v=2MwWmqcn--s&t=261s">YouTube</a> on 'Top Android Apps! (November 2023)'
 </p>
 
 <br>
@@ -78,29 +78,29 @@ Cashew is a full-fledged, feature-rich application designed to empower users in 
   <img width="80%" src="promotional/play-store-feature/play-store-feature.png" alt="Play Store Feature">
 </div>
 <p align="center">
-  Cashew was featured on <a href="https://play.google.com/store/apps/editorial?id=mc_apps_new_on_play_fcp">Google Play's Editorial 'New Apps We Love'</a> (November 2023)!
+  Penny was featured on <a href="https://play.google.com/store/apps/editorial?id=mc_apps_new_on_play_fcp">Google Play's Editorial 'New Apps We Love'</a> (November 2023)!
 </p>
 
 <br>
 
-<a href="https://github.com/nyas1/Material-You-app-list?tab=readme-ov-file#-economy:~:text=MDY%20Celenganku-,MDY%20Cashew,-MDY%20Allowance%20FOSS">
+<a href="https://github.com/nyas1/Material-You-app-list?tab=readme-ov-file#-economy:~:text=MDY%20Celenganku-,MDY%20Penny,-MDY%20Allowance%20FOSS">
   <div align="center">
     <img width="80%" src="promotional/material-apps-feature/material-apps-feature.png" alt="Material Apps List Feature">
   </div>
 </a>
 <p align="center">
-  Cashew was featured in the <a href="https://github.com/nyas1/Material-You-app-list?tab=readme-ov-file#-economy:~:text=MDY%20Celenganku-,MDY%20Cashew,-MDY%20Allowance%20FOSS">Material You Apps List</a>!
+  Penny was featured in the <a href="https://github.com/nyas1/Material-You-app-list?tab=readme-ov-file#-economy:~:text=MDY%20Celenganku-,MDY%20Penny,-MDY%20Allowance%20FOSS">Material You Apps List</a>!
 </p>
 
 ## Release
 
-Check out the [official website](https://cashewapp.web.app/)!
+Check out the [official website](https://pennyapp.web.app/)!
 
-This application is available on the [App Store](https://apps.apple.com/us/app/cashew-expense-budget-tracker/id6463662930), [Google Play](https://play.google.com/store/apps/details?id=com.budget.tracker_app), [GitHub](https://github.com/jameskokoska/Cashew/releases/) and as a [Web App (PWA)](https://budget-track.web.app/).
+This application is available on the [App Store](https://apps.apple.com/us/app/penny-expense-penny53er/id6463662930), [Google Play](https://play.google.com/store/apps/details?id=dev.ezzy.penny), [GitHub](https://github.com/jameskokoska/Penny/releases/) and as a [Web App (PWA)](https://penny53.web.app/).
 
 ### Changelog
 
-Changes and progress about development is all heavily documented in GitHub [commits](https://github.com/jameskokoska/Cashew/commits/main) and in the [changelog](https://github.com/jameskokoska/Cashew/blob/main/budget/lib/widgets/showChangelog.dart)
+Changes and progress about development is all heavily documented in GitHub [commits](https://github.com/jameskokoska/Penny/commits/main) and in the [changelog](https://github.com/jameskokoska/Penny/blob/main/budget/lib/widgets/showChangelog.dart)
 
 ## Key Features
 
@@ -153,34 +153,34 @@ Changes and progress about development is all heavily documented in GitHub [comm
 
 ## App Links
 
-A discussion/thread on App Links (example usage and how to harness the power of App Links) can be found at this issue: https://github.com/jameskokoska/Cashew/issues/127#issuecomment-1975096357. 
+A discussion/thread on App Links (example usage and how to harness the power of App Links) can be found at this issue: https://github.com/jameskokoska/Penny/issues/127#issuecomment-1975096357. 
 App links allow direct navigation and automation of actions using application URLs. Some examples are below.
 
 ### Changelog
-* Introduce iOS support (Cashew v5.3.5+400 and up)
-* **Breaking:** Remove unsupported app link domain - `cashew://budget.app` (Cashew v5.3.4+396 and up)
-* Support for more parameters documented under `Detailed Parameters` (Cashew v5.2.9+358 and up)
-* Introduce Android and web support (Cashew v5.2.3+328 and up)
+* Introduce iOS support (Penny v5.3.5+400 and up)
+* **Breaking:** Remove unsupported app link domain - `penny://budget.app` (Penny v5.3.4+396 and up)
+* Support for more parameters documented under `Detailed Parameters` (Penny v5.2.9+358 and up)
+* Introduce Android and web support (Penny v5.2.3+328 and up)
 
 ### Examples (for Android and iOS)
 
-Ensure Cashew is installed on the device you are launching these URLs from.
+Ensure Penny is installed on the device you are launching these URLs from.
 
 #### Example 1: Create an expense transaction for 100 with the category Shopping at the current time
 
-> https://cashewapp.web.app/addTransaction?amount=-100&title=All%20the%20shopping&category=Shopping&notes=Went%20shopping
+> https://pennyapp.web.app/addTransaction?amount=-100&title=All%20the%20shopping&category=Shopping&notes=Went%20shopping
 
 #### Example 2: Create an income transaction with a missing category at the current time
 
-> https://cashewapp.web.app/addTransaction?amount=100&title=Income&notes=Got%20money
+> https://pennyapp.web.app/addTransaction?amount=100&title=Income&notes=Got%20money
 
 #### Example 3: Open the add transaction page with a custom date with prefilled details
 
-> https://cashewapp.web.app/addTransactionRoute?amount=-50&title=All%20the%20shopping&notes=Went%20shopping&date=2024-03-02
+> https://pennyapp.web.app/addTransactionRoute?amount=-50&title=All%20the%20shopping&notes=Went%20shopping&date=2024-03-02
 
 #### Example 4: Create multiple transactions with one link using JSON
 
-> https://cashewapp.web.app/addTransaction?JSON=%7B%22transactions%22%3A%5B%7B%22amount%22%3A%22-100%22%2C%20%22notes%22%3A%22This%20is%20a%20note%22%2C%20%22category%22%3A%22Shopping%22%7D%2C%7B%22amount%22%3A%22-150%22%2C%20%22notes%22%3A%22This%20is%20a%20note%202%22%7D%5D%7D
+> https://pennyapp.web.app/addTransaction?JSON=%7B%22transactions%22%3A%5B%7B%22amount%22%3A%22-100%22%2C%20%22notes%22%3A%22This%20is%20a%20note%22%2C%20%22category%22%3A%22Shopping%22%7D%2C%7B%22amount%22%3A%22-150%22%2C%20%22notes%22%3A%22This%20is%20a%20note%202%22%7D%5D%7D
 
 See `JSON List of Transactions` below to view how the link is formatted.
 
@@ -188,7 +188,7 @@ See `JSON List of Transactions` below to view how the link is formatted.
 
 | Routes for Android and iOS                  | Routes for Web App                             |
 | ------------------------------------------- | ---------------------------------------------- |
-| `https://cashewapp.web.app/[Endpoint here]` | `https://budget-track.web.app/[Endpoint here]` |
+| `https://pennyapp.web.app/[Endpoint here]` | `https://penny53.web.app/[Endpoint here]` |
 
 ### Endpoints
 
@@ -204,11 +204,11 @@ See `JSON List of Transactions` below to view how the link is formatted.
 | `amount`      | The amount of the transaction. If negative, it represents an expense; if positive, it represents income.                                                                                                                                                                                             | No       | 0               |
 | `title`       | The title of the transaction. If an associated title is found and the category is not set, the associated title's category will be used.                                                                                                                                                             | No       | Empty string    |
 | `notes`       | The notes associated with the transaction.                                                                                                                                                                                                                                                           | No       | Empty string    |
-| `date`        | The date of the transaction. Supported string formats can be found in the `getCommonDateFormats()` method [here](https://github.com/jameskokoska/Cashew/blob/5.2.3%2B328/budget/lib/struct/commonDateFormats.dart).                                                                                  | No       | Current time    |
+| `date`        | The date of the transaction. Supported string formats can be found in the `getCommonDateFormats()` method [here](https://github.com/jameskokoska/Penny/blob/5.2.3%2B328/budget/lib/struct/commonDateFormats.dart).                                                                                  | No       | Current time    |
 | `category`    | The name of the category to add the transaction to. Executes a name search, takes the first entry, not case sensitive.                                                                                                                                                                               | No       | Prompt user     |
 | `subcategory` | The name of the subcategory to add the transaction to. If provided, it overwrites the category if a subcategory is found under a main category. Executes a name search, takes the first entry, not case sensitive.                                                                                   | No       | None            |
 | `account`     | The name of the account. Executes a name search, takes the first entry, not case sensitive.                                                                                                                                                                                                          | No       | Primary account |
-| `JSON`        | A list of JSON objects of transactions. If provided, Cashew will import a list/multiple transactions at once. Each JSON object in the list can use any of the aforementioned parameters. The JSON object should be keyed with `transactions` followed by the list of objects. See the example below. | No       | None            |
+| `JSON`        | A list of JSON objects of transactions. If provided, Penny will import a list/multiple transactions at once. Each JSON object in the list can use any of the aforementioned parameters. The JSON object should be keyed with `transactions` followed by the list of objects. See the example below. | No       | None            |
 
 <details> 
   <summary>Detailed Parameters</summary>
@@ -219,11 +219,11 @@ The following is a list of all and additional (not fully supported) parameters t
 
 **Standalone parameters:** only this parameter will be used, all other parameters will be ignored.
 
-App link parsing can be found [here](https://github.com/jameskokoska/Cashew/blob/main/budget/lib/widgets/util/deepLinks.dart).
+App link parsing can be found [here](https://github.com/jameskokoska/Penny/blob/main/budget/lib/widgets/util/deepLinks.dart).
 
 | Class | Parameter        | Description                                                                                                                                                                                                                                                                                                                              | Required | Default         | Standalone |
 | ----- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | --------------- | ---------- |
-| a     | `messageToParse` | Uses a scanner template to parse the passed in message. Only `date` or `dateCreated` can be passed along with this standalone parameter. All other fields will be constructed by the scanner template. Scanner templates are not enabled in Cashew by default. To enable this feature, enable `Notification Transactions` debug feature. | None     | None            | Yes        |
+| a     | `messageToParse` | Uses a scanner template to parse the passed in message. Only `date` or `dateCreated` can be passed along with this standalone parameter. All other fields will be constructed by the scanner template. Scanner templates are not enabled in Penny by default. To enable this feature, enable `Notification Transactions` debug feature. | None     | None            | Yes        |
 | b     | `JSON`           | Description in the above table.                                                                                                                                                                                                                                                                                                          | No       | None            | Yes        |
 | c     | `subcategoryPk`  | The primary key of the subcategory entry within the database.                                                                                                                                                                                                                                                                            | No       | None            |
 | c     | `subcategory`    | Description in the above table.                                                                                                                                                                                                                                                                                                          | No       | None            |
@@ -276,13 +276,13 @@ As an example:
 
 Don't forget to encode the JSON in the URL as JSON uses invalid URI characters. Once encoded, the output link would look something like:
 
-> https://cashewapp.web.app/addTransaction?JSON=%7B%22transactions%22%3A%5B%7B%22amount%22%3A%22-100%22%2C%20%22notes%22%3A%22This%20is%20a%20note%22%2C%20%22category%22%3A%22Shopping%22%7D%2C%7B%22amount%22%3A%22-150%22%2C%20%22notes%22%3A%22This%20is%20a%20note%202%22%7D%5D%7D
+> https://pennyapp.web.app/addTransaction?JSON=%7B%22transactions%22%3A%5B%7B%22amount%22%3A%22-100%22%2C%20%22notes%22%3A%22This%20is%20a%20note%22%2C%20%22category%22%3A%22Shopping%22%7D%2C%7B%22amount%22%3A%22-150%22%2C%20%22notes%22%3A%22This%20is%20a%20note%202%22%7D%5D%7D
 
 
 ### Troubleshooting
 
 #### Android
-If you get redirected to the website instead of the Cashew app, your device may not be correctly set up to open App Links. Ensure Cashew can open its respective app link. On your Android device head to your device settings, 'Default apps', 'Opening links' and ensure Cashew has permission to open from the domain `cashewapp.web.app` under 'Supported web addresses'. This may be disabled by default if you did not install a Google Play signed copy of Cashew (i.e. downloaded from GitHub). This is because Cashew now uses App Links which need to be verified as per Android 12+ requirements with an app's signature public key. Alternatively, you can use a redirect application such as LinkSheet which can manage which apps open when certain links are activated.
+If you get redirected to the website instead of the Penny app, your device may not be correctly set up to open App Links. Ensure Penny can open its respective app link. On your Android device head to your device settings, 'Default apps', 'Opening links' and ensure Penny has permission to open from the domain `pennyapp.web.app` under 'Supported web addresses'. This may be disabled by default if you did not install a Google Play signed copy of Penny (i.e. downloaded from GitHub). This is because Penny now uses App Links which need to be verified as per Android 12+ requirements with an app's signature public key. Alternatively, you can use a redirect application such as LinkSheet which can manage which apps open when certain links are activated.
 
 ### Testing
 
@@ -291,12 +291,12 @@ If you get redirected to the website instead of the Cashew app, your device may 
 You can use ADB to test app links. For example
 
 ```shell
-adb shell am start -a android.intent.action.VIEW -d "https://cashewapp.web.app/addTransaction?amount=-70\&title=Grocery%20Shopping\&date=2024-03-02\&category=Food\&subcategory=Groceries\&notes=Bought%20fruits%20and%20vegetables\&account=test"
+adb shell am start -a android.intent.action.VIEW -d "https://pennyapp.web.app/addTransaction?amount=-70\&title=Grocery%20Shopping\&date=2024-03-02\&category=Food\&subcategory=Groceries\&notes=Bought%20fruits%20and%20vegetables\&account=test"
 ```
 
 #### Using links
 
-You can click links and open them with Cashew. See the example section above to test.
+You can click links and open them with Penny. See the example section above to test.
 
 ## Bundled Packages
 
@@ -318,7 +318,7 @@ The translations are available here: https://docs.google.com/spreadsheets/d/1QQq
 
 ### Pull Requests and Contributions
 
-Unfortunately, I am currently not accepting contributions due to licensing and credits. Since this application turns some profits, I want to avoid any muddy water when it comes to compensation for contributions. You are free to submit an [issue](https://github.com/jameskokoska/Cashew/issues) and I can consider it!
+Unfortunately, I am currently not accepting contributions due to licensing and credits. Since this application turns some profits, I want to avoid any muddy water when it comes to compensation for contributions. You are free to submit an [issue](https://github.com/jameskokoska/Penny/issues) and I can consider it!
 
 ### Android Release
 
@@ -345,7 +345,7 @@ Note: required Firebase.
 - Push the tag
 - `git push origin <version>`
 - Create the release and upload binaries
-- https://github.com/jameskokoska/Cashew/releases/new
+- https://github.com/jameskokoska/Penny/releases/new
 
 ### Scripts
 
@@ -359,7 +359,7 @@ Note: required Firebase.
 
 `update_translations.bat`
 
-- Downloads the latest version of Cashew translations. Runs `budget\assets\translations\generate-translations.py`
+- Downloads the latest version of Penny translations. Runs `budget\assets\translations\generate-translations.py`
 
 ### Develop Wirelessly on Android
 

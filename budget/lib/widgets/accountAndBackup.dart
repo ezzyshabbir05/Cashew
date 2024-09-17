@@ -875,7 +875,7 @@ class _BackupManagementState extends State<BackupManagement> {
                     Expanded(
                       child: AboutInfoBox(
                         title: "web-app".tr(),
-                        link: "https://budget-track.web.app/",
+                        link: "https://penny53.web.app/",
                         color: appStateSettings["materialYou"]
                             ? Theme.of(context).colorScheme.secondaryContainer
                             : getColor(context, "lightDarkAccentHeavyLight"),
@@ -1509,7 +1509,7 @@ Future<bool> saveDriveFileToDevice({
   await for (var data in response.stream) {
     dataStore.insertAll(dataStore.length, data);
   }
-  String fileName = "cashew-" +
+  String fileName = "penny-" +
       ((fileToSave.name ?? "") +
               cleanFileNameString(
                   (fileToSave.modifiedTime ?? DateTime.now()).toString()))

@@ -47,30 +47,30 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBGiaRl72d4k3Ki0dh8ra-gU4v2z04CgIw',
-    appId: '1:267621253497:web:12558fe9abebf7fa842fa8',
-    messagingSenderId: '267621253497',
-    projectId: 'budget-app-flutter',
-    authDomain: 'budget-app-flutter.firebaseapp.com',
-    storageBucket: 'budget-app-flutter.appspot.com',
+    apiKey: 'AIzaSyAPURqlPAh5ufHqleJYXRcnAM_Xief4Ri8',
+    appId: '1:669737508551:web:c969e4dbd03d23549228e2',
+    messagingSenderId: '669737508551',
+    projectId: 'penny-1baa7',
+    authDomain: 'penny-1baa7.firebaseapp.com',
+    storageBucket: 'penny-1baa7.appspot.com',
+    measurementId: 'G-W5KB7THVJ7',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDNVDtwGJUHBZohwB2RDeUco-5hAGfx2bA',
-    appId: '1:267621253497:android:e7a2967eaf8dd072842fa8',
-    messagingSenderId: '267621253497',
-    projectId: 'budget-app-flutter',
-    storageBucket: 'budget-app-flutter.appspot.com',
+    apiKey: 'AIzaSyCpqWPBhV1t9DPnZkLARadq_0C-apRoPaI',
+    appId: '1:669737508551:android:1a30cb7148ecb98f9228e2',
+    messagingSenderId: '669737508551',
+    projectId: 'penny-1baa7',
+    storageBucket: 'penny-1baa7.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBts7THLrbIh-xReN70k5AsknAMwBNhrD0',
-    appId: '1:267621253497:ios:17af91fbac7c01b9842fa8',
-    messagingSenderId: '267621253497',
-    projectId: 'budget-app-flutter',
-    storageBucket: 'budget-app-flutter.appspot.com',
-    androidClientId: '267621253497-0h976snjlf34gs8m75bh8nik8gcvr2mk.apps.googleusercontent.com',
-    iosClientId: '267621253497-ih94g1srq37gun4mdmvadgl3ev588vpf.apps.googleusercontent.com',
-    iosBundleId: 'com.budget.tracker-app',
+    apiKey: 'AIzaSyCYydwwktjKqafyJGAgr9SoGt61gu8GYYM',
+    appId: '1:669737508551:ios:6d970cd25b92b2949228e2',
+    messagingSenderId: '669737508551',
+    projectId: 'penny-1baa7',
+    storageBucket: 'penny-1baa7.appspot.com',
+    iosBundleId: 'dev.ezzy.penny',
   );
+
 }
